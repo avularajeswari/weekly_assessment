@@ -1,0 +1,21 @@
+{
+    "candidate_name": "John Smith",
+    "skills": [
+        "Python",
+        "Django",
+        "Flask",
+        "SQL",
+        "HTML",
+        "CSS"
+    ],
+    "years_of_experience": 2.0,
+    "education": [
+        "B.Tech Computer Science, 2023"
+    ],
+    "strengths": [
+        "2 years experience in Python development.",
+        "Developed web applications using Django.",
+        "Worked with SQL databases and REST APIs."
+    ],
+    "gaps": []
+}

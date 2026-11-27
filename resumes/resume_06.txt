@@ -1,0 +1,19 @@
+RESUME
+
+Meena Patel
+Database Administrator
+
+Skills:
+SQL, MySQL, Oracle, PostgreSQL
+
+Education:
+B.Sc Computer Science, 2021
+
+Experience:
+3 years database administration.
+Database optimization and backup.
+
+Projects:
+Database Management System
+
+Page 1

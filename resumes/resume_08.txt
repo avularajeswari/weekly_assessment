@@ -1,0 +1,20 @@
+RESUME
+
+Sneha Verma
+Software Tester
+
+Skills:
+Manual Testing, Selenium, Python, SQL
+
+Education:
+B.Tech, 2022
+
+Experience:
+2 years software testing experience.
+Performed functional and automation testing.
+
+Projects:
+Web Application Testing
+Mobile Application Testing
+
+Page 1

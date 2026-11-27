@@ -1,0 +1,20 @@
+{
+    "candidate_name": "Priya Sharma",
+    "skills": [
+        "Python",
+        "SQL",
+        "Excel",
+        "Power BI",
+        "Tableau"
+    ],
+    "years_of_experience": 3.0,
+    "education": [
+        "B.Tech Information Technology, 2022"
+    ],
+    "strengths": [
+        "3 years experience in data analysis.",
+        "Created dashboards and reports.",
+        "Performed data cleaning and visualization."
+    ],
+    "gaps": []
+}

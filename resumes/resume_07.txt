@@ -1,0 +1,19 @@
+RESUME
+
+Arjun Rao
+Cloud Engineer
+
+Skills:
+AWS, Azure, Docker, Linux, Python
+
+Education:
+B.Tech, 2023
+
+Experience:
+2 years cloud computing experience.
+Worked with cloud deployment.
+
+Projects:
+Cloud Hosting Application
+
+Page 1

@@ -1,0 +1,19 @@
+{
+    "candidate_name": "Rahul Kumar",
+    "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "REST API"
+    ],
+    "years_of_experience": 4.0,
+    "education": [
+        "B.Tech Computer Science, 2021"
+    ],
+    "strengths": [
+        "4 years experience in Java development.",
+        "Built backend applications.",
+        "Developed REST APIs using Spring Boot."
+    ],
+    "gaps": []
+}

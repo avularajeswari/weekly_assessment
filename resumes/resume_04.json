@@ -1,0 +1,20 @@
+{
+    "candidate_name": "Anita Reddy",
+    "skills": [
+        "Python",
+        "Machine Learning",
+        "Pandas",
+        "NumPy",
+        "Scikit-learn",
+        "TensorFlow"
+    ],
+    "years_of_experience": 2.0,
+    "education": [
+        "M.Tech Artificial Intelligence, 2024"
+    ],
+    "strengths": [
+        "2 years experience in machine learning.",
+        "Built classification and prediction models."
+    ],
+    "gaps": []
+}
