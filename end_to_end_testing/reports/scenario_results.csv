@@ -1,0 +1,15 @@
+test_id,category,question,status,response_time,tools_used,answer,error
+TC01,Document,What is the company's leave policy?,PASS,0.052,document_search,the company leave policy is available in the employee document.,
+TC02,Document,What is the employee's notice period?,PASS,0.005,document_search,the employee notice period is available in the company document.,
+TC03,Document,What are the company's working hours?,PASS,0.004,document_search,the company working hours are available in the company document.,
+TC04,Unanswerable,What is the CEO's personal phone number?,PASS,0.004,,"sorry, this information is not available.",
+TC05,Unanswerable,What will the company's revenue be in 2035?,PASS,0.005,,"sorry, i cannot predict the company's future revenue.",
+TC06,CRM,Find customer details for customer ID C101,PASS,0.007,crm_tool,"customer c101 details: name ravi, email ravi@gmail.com",
+TC07,CRM,What is the email address of customer C102?,PASS,0.004,crm_tool,customer c102 email: priya@gmail.com,
+TC08,Order,Find the status of order O501,PASS,0.006,order_tool,order o501 status is shipped.,
+TC09,Order,What is the delivery date of order O502?,PASS,0.004,order_tool,order o502 delivery date is 2026-12-01.,
+TC10,Email Draft,Draft a professional email to a customer explaining that their order is delayed.,PASS,0.005,,"subject: apology for order delay
+
+dear customer,
+
+we regret the delay in delivering your order. we apologize for the inconvenience.",
